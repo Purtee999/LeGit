@@ -1,4 +1,3 @@
 hello
 acm
-conflict line will surely hurt you
-aftadg
+hello
