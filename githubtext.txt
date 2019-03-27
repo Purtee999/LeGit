@@ -1,6 +1,4 @@
 hello
-acm
-hello
 asfdgadg
 sdfgasg
 sfg
